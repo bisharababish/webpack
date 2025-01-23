@@ -1,4 +1,4 @@
-import { checkForName } from './Client'; // Correct import
+import { checkForName } from './Client';
 
 function handleSubmit(event) {
     event.preventDefault();
